@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Double Diamond Interlocking Ribbon Strands with 100% Transparent Background -->
+  <path d="M30 20 L50 48 L70 20 C78 9 92 18 84 30 L50 78 L16 30 C8 18 22 9 30 20 Z" fill="url(#purpGrad1)" />
+  <path d="M70 80 L50 52 L30 80 C22 91 8 82 16 70 L50 22 L84 70 C92 82 78 91 70 80 Z" fill="url(#purpGrad2)" />
+  <defs>
+    <linearGradient id="purpGrad1" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="purpGrad2" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C084FC"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+</svg>
